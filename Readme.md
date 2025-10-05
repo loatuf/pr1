@@ -1,8 +1,9 @@
 Simple project for study makefiles
-thats my fork dawg
+
 =====================
 
 Примеры для обучения использованию make-файлов
+Учимся
 
 _example-1_
 ---------------
